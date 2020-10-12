@@ -5,6 +5,7 @@
 **Front-end Developer**
 
 <a href="https://www.linkedin.com/in/vitor-duggen-257198197/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.behance.net/zduggem"><img src="https://img.shields.io/badge/behance-053EFF.svg?style=for-the-badge&logo=behance&logoColor=white"></a>
 
 <ul>
   <li>🧑‍💻 I'm a Javascript Developer from <b>Santa Catarina, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
