@@ -155,11 +155,18 @@ I like working on products that solve real problems, especially when they involv
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vduggen&show_icons=true&theme=algolia&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vduggen&layout=compact&theme=algolia&hide_border=true"/>
+  <a href="https://github.com/vduggen">
+    <img src="https://img.shields.io/github/followers/vduggen?label=Followers&style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/vduggen?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-85-121011?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/vduggen">
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 <p align="center">
